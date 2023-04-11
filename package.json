@@ -1,5 +1,5 @@
 {
-  "name": "trpc-prune",
+  "name": "@sd/trpc-prune",
   "version": "0.0.0",
   "private": true,
   "workspaces": [
